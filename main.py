@@ -94,7 +94,6 @@ class Game:
         self.a = 1
         plt.show()
 
-# ეს მეთოდი გამოიძახება როქის დროს ტურის სვლის გასაკეთებლად და შესაბამისი ინფორმაციის ჩასაწერად.
     def make_rook_move(self, cell):
         cell1 = None
         cell2 = None
